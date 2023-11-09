@@ -1,7 +1,8 @@
 ## Master's Dissertation Project: The Role of CDA and P300 in Visual Working Memory: Insights from a Change Detection Task
 
 ### Note:
-I have create an interactive dashboard with rich visualizations of the data for your viewing using streamlit. I would highly recommend viewing the contents of my analysis through this link:
+I have create an interactive dashboard with rich visualizations of the data for your viewing using streamlit. I would highly recommend viewing the contents of my analysis through this link: [Web-App](https://mastersdissertation-portfolioproject.streamlit.app/)
+
 However, there are additional analyses which you can view in the jupyter notebook files in the [Notebooks](https://github.com/osbornep8/portfolioprojects/tree/main/masters_dissertation/notebooks)
 
 #### Data Collection: 
