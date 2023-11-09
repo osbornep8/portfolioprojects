@@ -1,5 +1,9 @@
 ## Master's Dissertation Project: The Role of CDA and P300 in Visual Working Memory: Insights from a Change Detection Task
 
+### Note:
+I have create an interactive dashboard with rich visualizations of the data for your viewing using streamlit. I would highly recommend viewing the contents of my analysis through this link:
+However, there are additional analyses which you can view in the jupyter notebook files in the [Notebooks](https://github.com/osbornep8/portfolioprojects/tree/main/masters_dissertation/notebooks)
+
 #### Data Collection: 
 We collected the EEG data from about 20 participants using a BioSemi (http://www.biosemi.com) Active Two Recording System, utilizing a 64-channel electrode cap that adheres to the International 10–20 System for electrode placement. To identify artefacts caused by blinking, eye movement, or other muscle movements, the vertical and horizontal electrooculogram (EOG) data was also recorded using additional active electrodes positioned near each eye, one above and below and on the left side of the left eye, and one on the right side of the right eye. The EEG and EOG signals were sampled at a rate of 2,048 Hz. During the EEG data recording, we used the left and right mastoid electrodes as the reference electrodes. We instructed participants to limit eye movements as well as the movement or tension in their jaw and facial muscles.
 
@@ -10,7 +14,3 @@ ZapLine (de Cheveigné, 2020) method was employed to eliminate line noise artefa
 
 ### Data Analysis:
 Data analysis was done using Python version 3.11 and the libraries as mentioned in the requirements.txt file.
-
-## Note:
-I have create an interactive dashboard with rich visualizations of the data for your viewing using streamlit. I would highly recommend viewing the contents of my analysis through this link:
-However, there are additional analyses which you can view in the jupyter notebook files in the (Notebooks)[https://github.com/osbornep8/portfolioprojects/tree/main/masters_dissertation/notebooks] 
