@@ -4,8 +4,8 @@ Please view the code through my [Kaggle Notebook](https://www.kaggle.com/code/os
 The task embedded to the dataset is classification prediction.
 
 ## Dataset:
-This a Kaggle dataset which contains Electronic Health Records collected from a private Hospital in Indonesia.
-It contains the patients laboratory test results used to determine next patient treatment whether in care or out care patient.
+This a Kaggle dataset which contains Electronic Health Records collected from a private hospital in Indonesia.
+It contains the patients laboratory test results used to determine whether the next patient would require in care or out care treatment.
 
 ## Methods:
 We first test 4 classification models:
