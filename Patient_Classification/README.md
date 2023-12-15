@@ -1,4 +1,4 @@
-Please view the code in the through my [Kaggle Notebook] (https://www.kaggle.com/code/osbornepereira/ehc-classification) to look at the plotly graphs used during the ana;yses.
+Please view the code in the through my Kaggle Notebook -> (https://www.kaggle.com/code/osbornepereira/ehc-classification) to look at the plotly graphs used during the analyses.
 
 ## Objective:
 The task embedded to the dataset is classification prediction.
