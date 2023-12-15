@@ -1,4 +1,4 @@
-Please view the code in the through my [Kaggle Notebook](https://www.kaggle.com/code/osbornepereira/ehc-classification) to look at the plotly graphs used during the analyses.
+Please view the code through my [Kaggle Notebook](https://www.kaggle.com/code/osbornepereira/ehc-classification) to look at the plotly graphs used during the analyses. 
 
 ## Objective:
 The task embedded to the dataset is classification prediction.
@@ -6,7 +6,6 @@ The task embedded to the dataset is classification prediction.
 ## Dataset:
 This a Kaggle dataset which contains Electronic Health Records collected from a private Hospital in Indonesia.
 It contains the patients laboratory test results used to determine next patient treatment whether in care or out care patient.
-
 
 ## Methods:
 We first test 4 classification models:
