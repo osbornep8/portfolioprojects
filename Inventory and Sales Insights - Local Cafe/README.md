@@ -8,7 +8,7 @@ I had to indivudally analyze these details as well aggrgate all this data in a m
 
 
 The sales information was scrapped from the cafe's 3rd party billing system ERP software through csv files and aggregated in MS Excel. I then used Tableau to create a dashboard which contains the following:
-* DIstribution of sales by each month and the days of the week
+* Distribution of sales by each month and the days of the week
 * Sales profits by the days of the week and by the month
 * Calendar widget to select a spefic date
 * Filters to analyze a specific item or multiple items
